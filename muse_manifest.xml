@@ -1,0 +1,324 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="claudia-castro.com" resolutions="1x,2x" timestamp="1529527852013">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="3794113059" ref="collective-health---design-strategy:index:museum-experience"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="collective-health---design-strategy:index:museum-experience"/>
+    <file name="collective-health---design-strategy.css" crc="66538461" ref="collective-health---design-strategy"/>
+    <file name="chef-uma.css" crc="3897311126" ref="chef-uma"/>
+    <file name="motherload.css" crc="278303246" ref="motherload"/>
+    <file name="index.css" crc="397608422" ref="index"/>
+    <file name="nomq_index.css" crc="218522319" ref="index"/>
+    <file name="museum-experience.css" crc="300964541" ref="museum-experience"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:motherload:chef-uma:museum-experience:collective-health---design-strategy"/>
+    <file name="museutils.js" crc="340535759" ref="index:motherload:chef-uma:museum-experience:collective-health---design-strategy"/>
+    <file name="whatinput.js" crc="86476730" ref="index:motherload:chef-uma:museum-experience:collective-health---design-strategy"/>
+    <file name="museconfig.js" crc="310584261" ref="index:motherload:chef-uma:museum-experience:collective-health---design-strategy"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:chef-uma"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:motherload:chef-uma:museum-experience:collective-health---design-strategy"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index:motherload:chef-uma:museum-experience:collective-health---design-strategy"/>
+  </folder>
+  <folder name="images">
+    <file name="pasted-svg-98046x600.svg" crc="4082743553" seo="true" ref="index">
+      <caption webpage="index" alt="Claudia Castro. M.S. in Human Computer Interaction. UX designer"/>
+      <caption webpage="index" alt="Claudia Castro. M.S. in Human Computer Interaction. UX designer"/>
+      <caption webpage="index" alt="Claudia Castro. M.S. in Human Computer Interaction. UX designer"/>
+      <caption webpage="index" alt="Claudia Castro. M.S. in Human Computer Interaction. UX designer"/>
+      <caption webpage="index" alt="Claudia Castro. M.S. in Human Computer Interaction. UX designer"/>
+      <caption webpage="index" alt="Claudia Castro. M.S. in Human Computer Interaction. UX designer"/>
+      <caption webpage="index" alt="Claudia Castro. M.S. in Human Computer Interaction. UX designer"/>
+    </file>
+    <file name="pasted svg 98046x600_poster_.png" crc="422995873" ref="index"/>
+    <file name="claudia castro.png" crc="3839209784" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u9694-9.png" crc="127370247" ref="index"/>
+    <file name="u9694-9_2x.png" crc="3851398064" ref="index"/>
+    <file name="pasted-svg-281982x108.svg" crc="3949047820" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 281982x108_poster_.png" crc="4159384272" ref="index"/>
+    <file name="hm-buttonu7318-fr.png" crc="91004511" ref="index"/>
+    <file name="hm-buttonu7318-fr_2x.png" crc="4266100216" ref="index"/>
+    <file name="hc.png" crc="3868957425" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hc_2x.png" crc="4281880603" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hmu.png" crc="172822734" ref="index:chef-uma">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hmu_2x.png" crc="430181092" ref="index:chef-uma">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:chef-uma"/>
+    <file name="final hover over vr that works with screen shot.jpg" crc="446194940" ref="index:chef-uma">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hch.png" crc="186748479" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hch_2x.png" crc="4200144501" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted-svg-980x599.svg" crc="39448722" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 980x599_poster_.png" crc="126856652" ref="index"/>
+    <file name="claudia castro345x321.png" crc="376098817" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hm-buttonu7318-fr2.png" crc="504053332" ref="index"/>
+    <file name="hm-buttonu7318-fr_2x2.png" crc="4194285112" ref="index"/>
+    <file name="claudia castro300x279.png" crc="3989446318" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u9694-92.png" crc="4021994768" ref="index"/>
+    <file name="u9694-9_2x2.png" crc="276379925" ref="index"/>
+    <file name="hm-buttonu7318-fr3.png" crc="4079433491" ref="index"/>
+    <file name="hm-buttonu7318-fr_2x3.png" crc="3896481758" ref="index"/>
+    <file name="claudia castro278x258.png" crc="339845869" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u9694-93.png" crc="528079806" ref="index"/>
+    <file name="u9694-9_2x3.png" crc="3983812824" ref="index"/>
+    <file name="hc-buttonu8291-fr.png" crc="299389140" ref="index"/>
+    <file name="hc-buttonu8291-fr_2x.png" crc="4132636080" ref="index"/>
+    <file name="final hover collective.svg" crc="3992771980" ref="index:chef-uma"/>
+    <file name="final hover collective_poster_u8813.png" crc="3782216939" ref="index:chef-uma"/>
+    <file name="hm-buttonu8743-fr.png" crc="494042575" ref="index"/>
+    <file name="hm-buttonu8743-fr_2x.png" crc="436694225" ref="index"/>
+    <file name="hmu-buttonu8785-fr.png" crc="364941758" ref="index"/>
+    <file name="hmu-buttonu8785-fr_2x.png" crc="4003107423" ref="index"/>
+    <file name="final hover over vr that works with screen shot2.jpg" crc="284153986" ref="index:chef-uma">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="final hover over vr that works with screen shot_2x.jpg" crc="446194940" ref="index:chef-uma">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="claudia castro232x215.png" crc="3802451768" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u9694-94.png" crc="4040359721" ref="index"/>
+    <file name="u9694-9_2x4.png" crc="426571484" ref="index"/>
+    <file name="hm-buttonu8520-fr.png" crc="355180817" ref="index"/>
+    <file name="hm-buttonu8520-fr_2x.png" crc="208579611" ref="index"/>
+    <file name="final hover over vr that works with screen shot-buttonu8532-fr.jpg" crc="133455150" ref="index"/>
+    <file name="final hover over vr that works with screen shot-buttonu8532-fr_2x.jpg" crc="384574123" ref="index"/>
+    <file name="hmu-buttonu8845-fr.png" crc="4276773888" ref="index"/>
+    <file name="hmu-buttonu8845-fr_2x.png" crc="453046279" ref="index"/>
+    <file name="hc-buttonu9069-fr.png" crc="241714552" ref="index"/>
+    <file name="hc-buttonu9069-fr_2x.png" crc="149829041" ref="index"/>
+    <file name="claudia castro174x162.png" crc="100311917" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u9694-95.png" crc="4140848328" ref="index"/>
+    <file name="u9694-9_2x5.png" crc="4159423018" ref="index"/>
+    <file name="hm-buttonu9838-fr.png" crc="3841222290" ref="index:chef-uma"/>
+    <file name="hm-buttonu9838-fr_2x.png" crc="402615800" ref="index"/>
+    <file name="hmu-buttonu9912-fr.png" crc="229434597" ref="index"/>
+    <file name="hmu-buttonu9912-fr_2x.png" crc="4255733309" ref="index"/>
+    <file name="hc-buttonu9943-fr.png" crc="3957435667" ref="index:chef-uma"/>
+    <file name="hc-buttonu9943-fr_2x.png" crc="3859066960" ref="index:chef-uma"/>
+    <file name="claudia castro116x108.png" crc="3910655755" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u10122-5.png" crc="251106335" ref="index"/>
+    <file name="u10122-5_2x.png" crc="4142719975" ref="index"/>
+    <file name="u10089-4.png" crc="3872266710" ref="index"/>
+    <file name="u10089-4_2x.png" crc="337125765" ref="index"/>
+    <file name="hm-buttonu9838-fr2.png" crc="4140983678" ref="index"/>
+    <file name="hm-buttonu9838-fr_2x2.png" crc="4213862299" ref="index"/>
+    <file name="final hover over vr that works with screen shot-buttonu9869-fr.jpg" crc="4260769129" ref="index"/>
+    <file name="final hover over vr that works with screen shot-buttonu9869-fr_2x.jpg" crc="386901146" ref="index"/>
+    <file name="hmu-buttonu9912-fr2.png" crc="3985671935" ref="index"/>
+    <file name="hmu-buttonu9912-fr_2x2.png" crc="322171157" ref="index"/>
+    <file name="hc-buttonu9943-fr2.png" crc="3834891575" ref="index"/>
+    <file name="hc-buttonu9943-fr_2x2.png" crc="475339310" ref="index"/>
+    <file name="hch-buttonu10206-fr.png" crc="4120757628" ref="index"/>
+    <file name="hch-buttonu10206-fr_2x.png" crc="4220539986" ref="index"/>
+    <file name="pasted-svg-980423x652.svg" crc="4163098278" seo="true" ref="motherload">
+      <caption webpage="motherload" alt=""/>
+    </file>
+    <file name="pasted svg 980423x652_poster_.png" crc="3763661673" ref="motherload"/>
+    <file name="u5422-4.png" crc="4000250812" ref="motherload"/>
+    <file name="u5422-4_2x.png" crc="3911080304" ref="motherload"/>
+    <file name="pasted-svg-72296x164.svg" crc="70580040" seo="true" ref="motherload">
+      <caption webpage="motherload" alt=""/>
+    </file>
+    <file name="pasted svg 72296x164_poster_.png" crc="3958106867" ref="motherload"/>
+    <file name="u5611-6.png" crc="4222408460" ref="motherload"/>
+    <file name="u5611-6_2x.png" crc="4132294425" ref="motherload"/>
+    <file name="u5532-4.png" crc="4246666748" ref="motherload"/>
+    <file name="u5532-4_2x.png" crc="392997722" ref="motherload"/>
+    <file name="u5562-4.png" crc="350122351" ref="motherload"/>
+    <file name="u5562-4_2x.png" crc="4065781217" ref="motherload"/>
+    <file name="u5535-4.png" crc="17415299" ref="motherload"/>
+    <file name="u5535-4_2x.png" crc="4013008264" ref="motherload"/>
+    <file name="u5546-8.png" crc="34434225" ref="motherload"/>
+    <file name="u5546-8_2x.png" crc="279738068" ref="motherload"/>
+    <file name="u5538-4.png" crc="3760063583" ref="motherload"/>
+    <file name="u5538-4_2x.png" crc="101287075" ref="motherload"/>
+    <file name="u5559-10.png" crc="97910877" ref="motherload"/>
+    <file name="u5559-10_2x.png" crc="4260562620" ref="motherload"/>
+    <file name="u5494-4.png" crc="494806603" ref="motherload"/>
+    <file name="u5494-4_2x.png" crc="3759353933" ref="motherload"/>
+    <file name="u5459-6.png" crc="4107642814" ref="motherload"/>
+    <file name="u5459-6_2x.png" crc="476579952" ref="motherload"/>
+    <file name="u5501-4.png" crc="51579524" ref="motherload"/>
+    <file name="u5501-4_2x.png" crc="181684178" ref="motherload"/>
+    <file name="pasted-svg-56531x110.svg" crc="31712753" seo="true" ref="motherload">
+      <caption webpage="motherload" alt=""/>
+    </file>
+    <file name="pasted svg 56531x110_poster_.png" crc="148381676" ref="motherload"/>
+    <file name="u5614-4.png" crc="4049663751" ref="motherload"/>
+    <file name="u5614-4_2x.png" crc="4118275385" ref="motherload"/>
+    <file name="mother hubbards-crop-u6135.jpg" crc="4294475195" seo="true" ref="motherload">
+      <caption webpage="motherload" alt=""/>
+    </file>
+    <file name="mother hubbards-crop-u6135_2x.jpg" crc="305233657" seo="true" ref="motherload">
+      <caption webpage="motherload" alt=""/>
+    </file>
+    <file name="pasted-svg-250487x85.svg" crc="3766551843" seo="true" ref="motherload">
+      <caption webpage="motherload" alt=""/>
+    </file>
+    <file name="pasted svg 250487x85_poster_.png" crc="510867887" ref="motherload"/>
+    <file name="index.jpg" crc="3857288155" seo="true" ref="motherload">
+      <caption webpage="motherload" alt=""/>
+    </file>
+    <file name="motherhubbardcupboard.png" crc="253246648" seo="true" ref="motherload">
+      <caption webpage="motherload" alt=""/>
+    </file>
+    <file name="motherhubbardcupboard_2x.png" crc="356762350" seo="true" ref="motherload">
+      <caption webpage="motherload" alt=""/>
+    </file>
+    <file name="_dsc0367 copy1.png" crc="3853704549" seo="true" ref="motherload">
+      <caption webpage="motherload" alt=""/>
+    </file>
+    <file name="_dsc0367 copy1_2x.png" crc="4288387479" seo="true" ref="motherload">
+      <caption webpage="motherload" alt=""/>
+    </file>
+    <file name="pasted-svg-621488x686.svg" crc="3782379156" seo="true" ref="motherload">
+      <caption webpage="motherload" alt=""/>
+    </file>
+    <file name="pasted svg 621488x686_poster_.png" crc="202730766" ref="motherload"/>
+    <file name="u6155-4.png" crc="292174955" ref="motherload"/>
+    <file name="u6155-4_2x.png" crc="3931223749" ref="motherload"/>
+    <file name="u6158-4.png" crc="3771968561" ref="motherload"/>
+    <file name="u6158-4_2x.png" crc="4015558544" ref="motherload"/>
+    <file name="u6161-4.png" crc="3900862061" ref="motherload"/>
+    <file name="u6161-4_2x.png" crc="481710432" ref="motherload"/>
+    <file name="u5638-4.png" crc="3764235556" ref="motherload"/>
+    <file name="u5638-4_2x.png" crc="3971350224" ref="motherload"/>
+    <file name="u5669-4.png" crc="3942428552" ref="motherload"/>
+    <file name="u5669-4_2x.png" crc="4189044881" ref="motherload"/>
+    <file name="u5672-4.png" crc="4215915886" ref="motherload"/>
+    <file name="u5672-4_2x.png" crc="478744228" ref="motherload"/>
+    <file name="u5675-4.png" crc="4119213430" ref="motherload"/>
+    <file name="u5675-4_2x.png" crc="360474530" ref="motherload"/>
+    <file name="pasted-svg-628918x353.svg" crc="3990500469" seo="true" ref="motherload">
+      <caption webpage="motherload" alt=""/>
+    </file>
+    <file name="pasted svg 628918x353_poster_.png" crc="3841780892" ref="motherload"/>
+    <file name="u5678-4.png" crc="4137998109" ref="motherload"/>
+    <file name="u5678-4_2x.png" crc="3766998306" ref="motherload"/>
+    <file name="u5681-4.png" crc="377601645" ref="motherload"/>
+    <file name="u5681-4_2x.png" crc="275693513" ref="motherload"/>
+    <file name="u5720-12.png" crc="186041448" ref="motherload"/>
+    <file name="u5720-12_2x.png" crc="311636554" ref="motherload"/>
+    <file name="u5733-4.png" crc="3770241919" ref="motherload"/>
+    <file name="u5733-4_2x.png" crc="4196748217" ref="motherload"/>
+    <file name="u6216-17.png" crc="3942201851" ref="motherload"/>
+    <file name="u6216-17_2x.png" crc="3900381761" ref="motherload"/>
+    <file name="pasted-svg-327203x505.svg" crc="4085033868" seo="true" ref="motherload">
+      <caption webpage="motherload" alt=""/>
+    </file>
+    <file name="pasted svg 327203x505_poster_.png" crc="226207802" ref="motherload"/>
+    <file name="u5789-4.png" crc="4261936025" ref="motherload"/>
+    <file name="u5789-4_2x.png" crc="350898641" ref="motherload"/>
+    <file name="pasted-svg-856578x1012.svg" crc="4202529491" seo="true" ref="motherload">
+      <caption webpage="motherload" alt=""/>
+    </file>
+    <file name="pasted svg 856578x1012_poster_.png" crc="305837249" ref="motherload"/>
+    <file name="u5798-4.png" crc="3918401947" ref="motherload"/>
+    <file name="u5798-4_2x.png" crc="3999011136" ref="motherload"/>
+    <file name="pasted-svg-782.svg" crc="169808490" seo="true" ref="motherload">
+      <caption webpage="motherload" alt=""/>
+    </file>
+    <file name="pasted svg 782_poster_.png" crc="4261472982" ref="motherload"/>
+    <file name="u5871-4.png" crc="87400660" ref="motherload"/>
+    <file name="u5871-4_2x.png" crc="4229629896" ref="motherload"/>
+    <file name="pasted-svg-728903x534.svg" crc="4066886488" seo="true" ref="motherload">
+      <caption webpage="motherload" alt=""/>
+    </file>
+    <file name="pasted svg 728903x534_poster_.png" crc="377194322" ref="motherload"/>
+    <file name="testing.png" crc="343700398" seo="true" ref="motherload">
+      <caption webpage="motherload" alt=""/>
+    </file>
+    <file name="u5924-11.png" crc="351107464" ref="motherload"/>
+    <file name="u5924-11_2x.png" crc="454210817" ref="motherload"/>
+    <file name="u5932-4.png" crc="3922222035" ref="motherload"/>
+    <file name="u5932-4_2x.png" crc="166210255" ref="motherload"/>
+    <file name="u5970-7.png" crc="3984527958" ref="motherload"/>
+    <file name="u5970-7_2x.png" crc="4268858292" ref="motherload"/>
+    <file name="u5986-7.png" crc="285792131" ref="motherload"/>
+    <file name="u5986-7_2x.png" crc="114195079" ref="motherload"/>
+    <file name="pasted-svg-213047x763.svg" crc="282010489" seo="true" ref="motherload">
+      <caption webpage="motherload" alt=""/>
+    </file>
+    <file name="pasted svg 213047x763_poster_.png" crc="3799759991" ref="motherload"/>
+    <file name="u5941-4.png" crc="275546706" ref="motherload"/>
+    <file name="u5941-4_2x.png" crc="292536436" ref="motherload"/>
+    <file name="u5989-16.png" crc="4075105601" ref="motherload"/>
+    <file name="u5989-16_2x.png" crc="4125378713" ref="motherload"/>
+    <file name="u5950-4.png" crc="3978054017" ref="motherload"/>
+    <file name="u5950-4_2x.png" crc="3881279065" ref="motherload"/>
+    <file name="u5993-7.png" crc="264522587" ref="motherload"/>
+    <file name="u5993-7_2x.png" crc="156493519" ref="motherload"/>
+    <file name="u5996-8.png" crc="408700089" ref="motherload"/>
+    <file name="u5996-8_2x.png" crc="4158119683" ref="motherload"/>
+    <file name="u6011-6.png" crc="4254203694" ref="motherload"/>
+    <file name="u6011-6_2x.png" crc="10129680" ref="motherload"/>
+    <file name="hm-buttonu8875-fr_2x.png" crc="140069267" ref="chef-uma"/>
+    <file name="hmu-buttonu8879-fr.png" crc="3959996892" ref="chef-uma"/>
+    <file name="hmu-buttonu8879-fr_2x.png" crc="4112609210" ref="chef-uma"/>
+    <file name="hm-buttonu9629-fr.png" crc="513669374" ref="chef-uma"/>
+    <file name="hm-buttonu9629-fr_2x.png" crc="4085977806" ref="chef-uma"/>
+    <file name="u7470-4.png" crc="4246666748" ref="museum-experience"/>
+    <file name="u7470-4_2x.png" crc="392997722" ref="museum-experience"/>
+    <file name="u7465-4.png" crc="174199647" ref="museum-experience"/>
+    <file name="u7465-4_2x.png" crc="3762597920" ref="museum-experience"/>
+    <file name="u7467-4.png" crc="17415299" ref="museum-experience"/>
+    <file name="u7467-4_2x.png" crc="4013008264" ref="museum-experience"/>
+    <file name="u7469-7.png" crc="3962758217" ref="museum-experience"/>
+    <file name="u7469-7_2x.png" crc="3903204883" ref="museum-experience"/>
+    <file name="u7468-4.png" crc="3760063583" ref="museum-experience"/>
+    <file name="u7468-4_2x.png" crc="101287075" ref="museum-experience"/>
+    <file name="u7466-8.png" crc="3914576834" ref="museum-experience"/>
+    <file name="u7466-8_2x.png" crc="3823957452" ref="museum-experience"/>
+    <file name="u7488-4.png" crc="512544342" ref="museum-experience"/>
+    <file name="u7488-4_2x.png" crc="200778067" ref="museum-experience"/>
+    <file name="u7487-4.png" crc="3973917846" ref="museum-experience"/>
+    <file name="u7487-4_2x.png" crc="92345420" ref="museum-experience"/>
+  </folder>
+  <file name="index.html" crc="395425726" seo="true" mt="1529527604753" redirect="true"/>
+  <file name="motherload.html" crc="309615497" seo="true" mt="1528921870368" redirect="true"/>
+  <file name="chef-uma.html" crc="26136824" seo="true" mt="1529441906860" redirect="true"/>
+  <file name="museum-experience.html" crc="3922358885" seo="true" mt="1529441654814" redirect="true"/>
+  <file name="collective-health---design-strategy.html" crc="282718532" seo="true" mt="1529441654814" redirect="true"/>
+</manifest>
